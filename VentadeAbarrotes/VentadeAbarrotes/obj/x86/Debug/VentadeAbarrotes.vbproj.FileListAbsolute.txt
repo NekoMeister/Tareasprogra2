@@ -1,0 +1,11 @@
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\bin\Debug\VentadeAbarrotes.exe
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\bin\Debug\VentadeAbarrotes.pdb
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\bin\Debug\VentadeAbarrotes.xml
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\VentadeAbarrotes.exe
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\VentadeAbarrotes.xml
+E:\Gustavo Chanchavac\Cursos 1er. Semestre 2022\Programación de Computadoras 2\Tarea No. 2\VentadeAbarrotes\VentadeAbarrotes\obj\x86\Debug\VentadeAbarrotes.pdb
